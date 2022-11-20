@@ -59,8 +59,6 @@ If you have any questions, you can contact me via any social media in the contac
 <!-- TECHNOLOGIES -->
 ### Content
 
-
-
 <p>
 <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" width="100" />
 </p>
@@ -73,8 +71,77 @@ git clone https://github.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case.g
 ```
 - You can build this project in your favorite IDE.
 - This project works on console, so you can simply run this project.
+```
+run App.java
+```
 
 ## Project Package Structure
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/11.png?token=GHSAT0AAAAAAB3N3C4XZJJNFCZFR4PNSQVIY32R7WA" />
+</p>
+
+## Project Outputs
+### Adding Product to the Store
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/1.png?token=GHSAT0AAAAAAB3N3C4WPJOIBZXI7WQIXWNUY32SBKQ" />
+</p>
+
+### Show Product Specifications
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/2.png?token=GHSAT0AAAAAAB3N3C4XIMSEN3UGVSCVLEPAY32SDBA" />
+</p>
+
+### List All Products in the Store
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/3.png?token=GHSAT0AAAAAAB3N3C4W5TNG6MMVWFZW3HQUY32SEJA" />
+</p>
+
+### List All Products by Category Id=0
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/4.png?token=GHSAT0AAAAAAB3N3C4XGEII3LRGHC4RV6IQY32SE7A" />
+</p>
+
+### List All Products by Category Id=1
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/5.png?token=GHSAT0AAAAAAB3N3C4XFG2ALH5UKFWKOA3EY32SGAQ" />
+</p>
+
+### List All Brands by Brand Name in ascending order
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/6.png?token=GHSAT0AAAAAAB3N3C4WEDCDCJ3PPX6HIG64Y32SGJA" />
+</p>
+
+
+### List All Products by Product Id in ascending order
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/7.png?token=GHSAT0AAAAAAB3N3C4XTAFAQQPKQVORXXZYY32SHEQ" />
+</p>
+
+### Remove Product by Product Id from Store
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/8.png?token=GHSAT0AAAAAAB3N3C4XC2GDSB5I5OLA3AGCY32SH7A" />
+</p>
+
+### See below: Item has been deleted from List
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/9.png?token=GHSAT0AAAAAAB3N3C4WBLJALGNLWKPHJOXUY32SIRA" />
+</p>
+
+
+### Exit Program
+
+<p>
+<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/10.png?token=GHSAT0AAAAAAB3N3C4XG4WRSJH4CK6EYKG2Y32SJKQ" />
+</p>
 
 
 
