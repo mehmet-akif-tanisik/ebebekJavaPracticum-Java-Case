@@ -60,7 +60,7 @@ If you have any questions, you can contact me via any social media in the contac
 ### Content
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/java.svg" width="100" />
+<img src="outputImages/logo/java.svg" width="100" />
 </p>
 
 ## Installation
@@ -78,69 +78,69 @@ run App.java
 ## Project Package Structure
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/11.png?token=GHSAT0AAAAAAB3N3C4WHD6QGFJTVJUMS5GUY32SNWA" />
+<img src="outputImages/11.png" />
 </p>
 
 ## Project Outputs
 ### Adding Product to the Store
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/1.png?token=GHSAT0AAAAAAB3N3C4WACLB2V7OPKW7Z53EY32SOLA" />
+<img src="outputImages/1.png" />
 </p>
 
 ### Show Product Specifications
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/2.png?token=GHSAT0AAAAAAB3N3C4WWYW4LMD6RCKG5OP2Y32SOOQ" />
+<img src="outputImages/2.png" />
 </p>
 
 ### List All Products in the Store
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/3.png?token=GHSAT0AAAAAAB3N3C4XQNBYQ7IP64BPFRSWY32SOTQ" />
+<img src="outputImages/3.png" />
 </p>
 
 ### List All Products by Category Id=0
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/4.png?token=GHSAT0AAAAAAB3N3C4W6U5MUDHLTXKHOQIIY32SOWA" />
+<img src="outputImages/4.png" />
 </p>
 
 ### List All Products by Category Id=1
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/5.png?token=GHSAT0AAAAAAB3N3C4WKYDXJWOAY3QMIOJGY32SOYA" />
+<img src="outputImages/5.png" />
 </p>
 
 ### List All Brands by Brand Name in ascending order
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/6.png?token=GHSAT0AAAAAAB3N3C4X3LKYIOGSXAAE2CPYY32SO2A" />
+<img src="outputImages/6.png" />
 </p>
 
 
 ### List All Products by Product Id in ascending order
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/7.png?token=GHSAT0AAAAAAB3N3C4X4FEIFOGHSTPDE7UGY32SO3Q" />
+<img src="outputImages/7.png" />
 </p>
 
 ### Remove Product by Product Id from Store
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/8.png?token=GHSAT0AAAAAAB3N3C4WKN4LHJOQBZRL7WEKY32SO5Q" />
+<img src="outputImages/8.png" />
 </p>
 
 ### See below: Item has been deleted from List
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/9.png?token=GHSAT0AAAAAAB3N3C4X2DIZJWFT76R6RLB2Y32SO7Q" />
+<img src="outputImages/9.png" />
 </p>
 
 
 ### Exit Program
 
 <p>
-<img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticum-Java-Case/main/outputImages/10.png?token=GHSAT0AAAAAAB3N3C4XN7RIL5OPKXU54KSCY32SQXQ" />
+<img src="outputImages/10.png" />
 </p>
 
 
@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## ebebek & Patika.dev
 <div align="center">
   <a href="https://www.e-bebek.com">
-    <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/main/images/ebebek-logo.png" alt="Logo" width="200" height="50">
+    <img src="outputImages/logo/ebebek-logo.png" alt="Logo" width="200" height="50">
   </a>
 
 <h3 align="center">Company: ebebek</h3>
@@ -188,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br><br>
 <div align="center">
   <a href="https://www.patika.dev/tr">
-    <img src="https://raw.githubusercontent.com/mehmet-akif-tanisik/ebebekJavaPracticumHomeworks/779b5d6e2264b20bcafdc3c6a517048042aa799f/images/patika-logo.svg" alt="Logo" width="240" height="50">
+    <img src="outputImages/logo/patika-logo.svg" alt="Logo" width="240" height="50">
   </a>
 <h3 align="center">Organizer: Patika.dev</h3>
 </div>
