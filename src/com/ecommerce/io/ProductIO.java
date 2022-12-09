@@ -15,7 +15,7 @@ public class ProductIO {
 
     public List<Product> loadMobilePhonesData(){
         Scanner fileIn = null;
-        String path = "C:\\Users\\Matnsk\\Desktop\\ebebekJavaPracticum-Java-Case\\src\\resources\\mobileProducts.txt";
+        String path = "src/resources/mobileProducts.txt";
         List<Product> products = new ArrayList<>();
         try{
             fileIn = new Scanner(new FileInputStream(path));
@@ -54,7 +54,7 @@ public class ProductIO {
 
     public List<Product> loadLaptopsData(){
         Scanner fileIn = null;
-        String path = "C:\\Users\\Matnsk\\Desktop\\ebebekJavaPracticum-Java-Case\\src\\resources\\laptopProducts.txt";
+        String path = "src/resources/laptopProducts.txt";
         List<Product> products = new ArrayList<>();
         try{
             fileIn = new Scanner(new FileInputStream(path));
@@ -91,7 +91,7 @@ public class ProductIO {
 
     public List<Brand> loadBrandsData(){
         BufferedReader reader;
-        String path = "C:\\Users\\Matnsk\\Desktop\\ebebekJavaPracticum-Java-Case\\src\\resources\\brands.txt";
+        String path = "src/resources/brands.txt";
         List<Brand> brandList = new ArrayList<>();
         try{
             reader = new BufferedReader(new FileReader(path));
@@ -110,7 +110,7 @@ public class ProductIO {
     }
 
     public List<Category> loadCategoriesData(){
-        String path = "C:\\Users\\Matnsk\\Desktop\\ebebekJavaPracticum-Java-Case\\src\\resources\\categories.txt";
+        String path = "src/resources/categories.txt";
         List<Category> categoryList = new ArrayList<>();
         try {
             Scanner scanner = new Scanner(new File(path));
@@ -124,10 +124,4 @@ public class ProductIO {
         }
         return categoryList;
     }
-
-
-
-
-
-
 }
